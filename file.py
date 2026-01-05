@@ -10,3 +10,5 @@ for i in range(a,b+1):
                 break
         if is_prime == True:
             print(i)
+
+print('сосал')
